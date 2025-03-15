@@ -1,0 +1,69 @@
+h1 {
+    background-color: aqua;
+    color: purple;
+    border: 3px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+.s1 {
+    color: red;
+}
+h3 {
+    color: green;
+}
+h2 {
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+.s2 {
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+.p1 {
+    color: green;
+}
+.s3 {
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+.i1 {
+    width: 1200px;
+    height: 30px;
+}
+.m1 {
+    color: green;
+}
+.b1 {
+    background-color: rgb(37, 125, 212);
+    color: white;
+    width: 200px;
+}
+.hayvon {
+    background-color: green;
+    color: white;
+    width: 100px;
+}
+.blue {
+    background-color: blue;
+    color: white;
+    width: 600px;
+}
+.qizil {
+    background-color: red;
+    color: white;
+        border: 2px solid white;
+}
+.qora {
+    background-color: black;
+    color: white;
+}
+.table {
+    border-collapse: collapse;
+
+}
+.th,td {
+    border: 1px solid white;
+}
